@@ -1,4 +1,4 @@
-# DevMedia - Desenvolvimento FullStack
+# DevMedia - Desenvolvimento de Software FullStack
 Aqui guardo todos os exercícios que fiz em diversas tecnologias ao decorrer do curso de Desenvolvimento FullStack na [DevMedia](https://www.devmedia.com.br/).
 
 ![download](https://github.com/user-attachments/assets/f638183e-83bb-4c3b-b4e0-989bc0a51625)
